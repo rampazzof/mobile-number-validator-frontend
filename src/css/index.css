@@ -1,0 +1,11 @@
+.flex-parent {
+  display: flex;
+  border-bottom: 1px solid black;
+  justify-content: center;
+}
+
+.flex-child {
+  width: 100px;
+  height: 50px;
+  margin: auto;
+}
